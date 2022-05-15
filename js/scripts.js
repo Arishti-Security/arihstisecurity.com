@@ -5,3 +5,11 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
+
+
+console.log(
+"    ░█▀█░█▀▄░▀█▀░█▀▀░█░█░▀█▀░▀█▀\n\
+    ░█▀█░█▀▄░░█░░▀▀█░█▀█░░█░░░█░\n\
+    ░▀░▀░▀░▀░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀")
+
+console.log("if you can read this; we're hiring send your profile at: ani@arishtisecurity.com")
